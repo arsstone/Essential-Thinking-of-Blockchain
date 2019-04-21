@@ -23,7 +23,7 @@ Content：
         - 3.5.2 User needs in the new era
         - 3.5.3 A Brief Discussion on the New Theory of Value Affirmation
         - 3.5.4 Tokenism
-        - 3.5.5 Tokenist and Tokenist sprit
+        - 3.5.5 Tokener and Token sprit
         - 3.5.6 The competitiveness of token system
         - 3.5.7 Analysis of the structure of the token economy
     - 3.6 .Token governancelogy
